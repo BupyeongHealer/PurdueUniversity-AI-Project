@@ -12,6 +12,6 @@
 <br>
 
 ![alt 1번이미지](/image/img1.png)
-![alt 2번이미지](/image/img2.png)
+![alt 2번이미지](/image/img2.jpg)
 
 
